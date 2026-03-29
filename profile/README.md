@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://raw.githubusercontent.com/EverMind-AI/EverMemOS/main/figs/logo.png" alt="EverMind" height="80" />
 
@@ -37,4 +37,4 @@ We welcome contributions from the community. Check out our repositories and join
 [![GitHub](https://img.shields.io/badge/GitHub-EverMind--AI-black?style=flat-square&logo=github)](https://github.com/EverMind-AI)
 [![Email](https://img.shields.io/badge/Email-evermind%40shanda.com-blue?style=flat-square&logo=gmail)](mailto:evermind@shanda.com)
 [![Reddit](https://img.shields.io/badge/Reddit-r%2FEverMindAI-orange?style=flat-square&logo=reddit)](https://www.reddit.com/r/EverMindAI/)
-[![X](https://img.shields.io/badge/X-@EverMindAI-black?style=flat-square&logo=x)](https://x.com/EverMindAI)
+[![X](https://img.shields.io/badge/X-@EverMindAI-black?style=flat-square&logo=x)](https://x.com/EverMindAI) -->
