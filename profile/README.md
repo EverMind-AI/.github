@@ -20,7 +20,7 @@
 <tr>
 <td width="50%" valign="top">
 
-![banner-gif](https://github.com/user-attachments/assets/96bf6df0-39e3-4c85-b8a5-240e29136e1b)
+[![banner-gif](https://github.com/user-attachments/assets/96bf6df0-39e3-4c85-b8a5-240e29136e1b)](https://github.com/EverMind-AI/EverOS)
 
 
 #### EverOS
@@ -32,7 +32,7 @@ Build, evaluate, and integrate long-term memory for self-evolving agents.
 </td>
 <td width="50%" valign="top">
 
-![banner-gif](https://github.com/user-attachments/assets/f1c3b962-ae28-405d-acf0-67c153b786fd)
+[![banner-gif](https://github.com/user-attachments/assets/f1c3b962-ae28-405d-acf0-67c153b786fd)](https://github.com/EverMind-AI/MSA)
 
 #### MSA
 
@@ -43,6 +43,8 @@ A scalable, end-to-end trainable latent-memory framework for 100M-token contexts
 </td>
 </tr>
 </table>
+
+<br>
 
 ## Methods
 
@@ -76,6 +78,8 @@ A hypergraph-based hierarchical memory architecture that captures high-order ass
 </tr>
 </table>
 
+<br>
+
 ## Benchmarks
 
 Benchmarks are designed as **open public standards**. Any memory architecture or agent framework can be evaluated under the same ruler.
@@ -106,33 +110,3 @@ Agent self-evolution evaluation — not static snapshots, but longitudinal growt
 </td>
 </tr>
 </table>
-
-## Contributing
-
-We love open-source energy! Whether you are squashing bugs, shipping features, sharpening docs, or just tossing in wild ideas, every PR moves EverOS forward. Browse [Issues](https://github.com/EverMind-AI/EverOS/issues) to find your perfect entry point, then show us what you have got. Let us build the future of memory together.
-
-<br>
-
-> [!TIP]
->
-> **Welcome all kinds of contributions** 🎉
->
-> Join us in building EverOS better! Every contribution makes a difference, from code to documentation. Share your projects on social media to inspire others!
->
-> Connect with one of the EverOS maintainers [@elliotchen200](https://x.com/elliotchen200) on 𝕏 or [@cyfyifanchen](https://github.com/cyfyifanchen) on GitHub for project updates, discussions, and collaboration opportunities.
-
-![divider](https://github.com/user-attachments/assets/2e2bbcc6-e6d8-4227-83c6-0620fc96f761#gh-light-mode-only)
-![divider](https://github.com/user-attachments/assets/d57fad08-4f49-4a1c-bdfc-f659a5d86150#gh-dark-mode-only)
-
-### Contribution Guidelines
-
-Read our [Contribution Guidelines](methods/evermemos/CONTRIBUTING.md) for code standards and Git workflow.
-
-![divider](https://github.com/user-attachments/assets/2e2bbcc6-e6d8-4227-83c6-0620fc96f761#gh-light-mode-only)
-![divider](https://github.com/user-attachments/assets/d57fad08-4f49-4a1c-bdfc-f659a5d86150#gh-dark-mode-only)
-
-### License & Citation & Acknowledgments
-
-[Apache 2.0](https://github.com/EverMind-AI/EverOS/blob/main/LICENSE) • [Acknowledgments](methods/evermemos/docs/ACKNOWLEDGMENTS.md)
-
-<br>
