@@ -1,6 +1,6 @@
 <div align="center" id="readme-top">
 
-![banner-gif](https://github.com/user-attachments/assets/2ab7644e-bc6c-43b6-9937-7f13c85ede1e)
+![banner-gif](https://github.com/user-attachments/assets/d4c9fc90-b116-494d-9312-c9cc11e0652a)
 
 <p align="center">
   <a href="https://x.com/evermind"><img src="https://img.shields.io/badge/EverMind-000000?labelColor=gray&style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
