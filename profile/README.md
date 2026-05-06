@@ -9,12 +9,13 @@
   <a href="https://github.com/EverMind-AI/EverOS/discussions/67"><img src="https://img.shields.io/badge/WeCom-EverMind_社区-07C160?labelColor=gray&style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"></a>
 </p>
 
-
 </div>
 
 <br>
 
 ## Repositories
+
+Core repositories in the EverMind ecosystem. EverOS packages the methods, benchmarks, and use cases for building self-evolving agents, while MSA focuses on the model architecture that makes extreme-scale memory practical.
 
 <table>
 <tr>
@@ -22,18 +23,18 @@
 
 ### EverOS
 
-Build, evaluate, and integrate long-term memory for self-evolving agents.
+An open framework for building self-evolving agents with persistent long-term memory. It brings together memory architectures, open benchmarks, and real use cases so teams can build, evaluate, and integrate memory systems in one place.
 
-[Paper](https://arxiv.org/abs/2601.02163)
+[Repo](https://github.com/EverMind-AI/EverOS) · [Paper](https://arxiv.org/abs/2601.02163)
 
 </td>
 <td width="50%" valign="top">
 
 ### MSA
 
-A scalable, end-to-end trainable latent-memory framework for 100M-token contexts.
+A research repository for Memory Sparse Attention, an end-to-end trainable latent-memory framework that scales long-context reasoning to 100M tokens. It combines sparse routing, KV cache compression, and memory-parallel inference to keep retrieval and generation in a single differentiable system.
 
-[Paper](https://arxiv.org/abs/2603.23516)
+[Repo](https://github.com/EverMind-AI/MSA) · [Paper](https://arxiv.org/abs/2603.23516)
 
 </td>
 </tr>
@@ -96,10 +97,6 @@ Three-layer memory quality evaluation: factual recall, applied reasoning, and pe
 Agent self-evolution evaluation — not static snapshots, but longitudinal growth curves. Measures transfer efficiency, error avoidance, and skill-hit quality through controlled experiments with and without evolution.
 
 [Docs](benchmarks/EvoAgentBench/)
-
-</td>
-</tr>
-</table>
 
 </td>
 </tr>
